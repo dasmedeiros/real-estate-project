@@ -1,5 +1,9 @@
 from urllib import response
 import requests
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # copy c URL for bash from Network Tab of Chrome Dev Tools for a GET request after auth and paste it in
 # curl.trillworks.com and receive Python code

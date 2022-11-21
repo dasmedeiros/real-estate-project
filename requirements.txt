@@ -1,0 +1,5 @@
+pandas
+selenium
+pymongo[srv]
+python-dotenv
+webdriver_manager
